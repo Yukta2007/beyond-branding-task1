@@ -9,4 +9,4 @@ step 4- The remove button displayed next to your task allows you to remove your 
 javascript and stylesheet was not attached with the main html file
 
 #solved:
-Attached the files(CSS and java) enhanced the stylesheet 
+Attached the files(CSS and java) enhanced the stylesheet .
